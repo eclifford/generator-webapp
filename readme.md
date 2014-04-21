@@ -1,5 +1,5 @@
 # Web app generator [![Build Status](https://secure.travis-ci.org/yeoman/generator-webapp.svg?branch=master)](http://travis-ci.org/yeoman/generator-webapp)
-
+asdf
 [Yeoman](http://yeoman.io) generator that scaffolds out a front-end web app.
 
 ![](http://i.imgur.com/uKTT2Hj.png)
